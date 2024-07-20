@@ -49,7 +49,7 @@
 
 
 <details>
-  <summary><b>👩‍🎓: &nbsp;Conhecimentos na área do Gestão: </b></summary>
+  <summary><b>👩🏻‍💻: &nbsp;Conhecimentos na área do Gestão: </b></summary>
   <br/>
 
 <img src="https://img.shields.io/badge/ Gestão%20de%20Pessoas-4479A1.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
