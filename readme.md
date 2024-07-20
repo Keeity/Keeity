@@ -65,7 +65,7 @@
 </details>
 <details>
   <summary>
-    <b>:gear: &nbsp;Estatisticas do GitHub</b>
+    <b>:gear: &nbsp;Estatisticas do GitHub</b> - Clique para ver os detalhes
   </summary>
   <br/>
     <p align="center">
