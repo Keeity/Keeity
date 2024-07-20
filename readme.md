@@ -37,7 +37,7 @@
 
 <details>
   <summary>
-    <b>👩‍🎓: &nbsp;Conhecimentos na área do Direito: </b> - Clique para ver os detalhes
+    <b>⚖️: &nbsp;Conhecimentos na área do Direito: </b> - Clique para ver os detalhes
   </summary>
   <br/>
 
