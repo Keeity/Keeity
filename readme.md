@@ -13,7 +13,10 @@
 <hr/>
 
 
+<details>
+  <summary>
     <b>:computer: &nbsp;Principais conhecimentos na área de tecnologia </b>
+     </summary>
   <br/>
 <img src="https://img.shields.io/badge/EXCEL-6DB33F.svg?&style=flat&logo=microsoftexcel&logoColor=white" />&nbsp; 
 <img src="https://img.shields.io/badge/VBA-0769AD.svg?&style=flat&logo=visualbasic&logoColor=white" />&nbsp;
@@ -35,7 +38,7 @@
 <details>
   <summary>
     <b>👩‍🎓: &nbsp;Conhecimentos na área do Direito: </b>
-[  </summary>](url)
+  </summary>
   <br/>
 
 <img src="https://img.shields.io/badge/Direito%20do%20Trabalho%20-%20Pós%20Graduação-0095D5.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
@@ -45,13 +48,13 @@
 <img src="https://img.shields.io/badge/Direito%20Administrativo-A81C7D.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/ Direito%20Bancário-4479A1.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
 
-[</details>
-](url)
+</details>
 
-[<details>
-  <summary>](url)
+
+<details>
+  <summary>
     <b>👩🏻‍💻: &nbsp;Conhecimentos na área do Gestão: </b>
-[  </summary>](url)
+  </summary>
   <br/>
 
 <img src="https://img.shields.io/badge/ Gestão%20de%20Pessoas-4479A1.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
@@ -59,9 +62,9 @@
 <img src="https://img.shields.io/badge/%20Gestão%20de%20Projetos%20-232F3E.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Liderança%20e%20-0095D5.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Governaça%20e%20Compliance-A81C7D.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
-[</details>
+</details>
 <details>
-  <summary>](url)
+  <summary>
     <b>:gear: &nbsp;Estatisticas do GitHub</b>
   </summary>
   <br/>
@@ -71,7 +74,7 @@
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=keeity&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeity&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-[</details>](url)
+</details>
 
 <hr/>
 <br/>
