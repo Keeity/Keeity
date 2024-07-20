@@ -15,7 +15,7 @@
 
 <details>
   <summary>
-    <b>:computer: &nbsp;Principais conhecimentos na área de tecnologia </b>
+    <b>:computer: &nbsp;Principais conhecimentos na área de tecnologia  </b> - Clique para ver os detalhes
      </summary>
   <br/>
 <img src="https://img.shields.io/badge/EXCEL-6DB33F.svg?&style=flat&logo=microsoftexcel&logoColor=white" />&nbsp; 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Postman?style=flat-square&logo=postman&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" />&nbsp;
-
+</details>
 
 <details>
   <summary>
