@@ -38,7 +38,7 @@
   <summary><b>👩‍🎓: &nbsp;Conhecimentos na área do Direito: </b></summary>
   <br/>
 
-<img src="https://img.shields.io/badge/Direito%20do%20Trabalho-0095D5.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Direito%20do%20Trabalho%20-%20Pós%20Graduação-0095D5.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/ Processo%20do%20Trabalho-FFCA28.svg?&style=flat&logo=gitBook&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/%20Direito%20Civil%20-232F3E.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Processo%20Civil-F80000.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;<br>
@@ -47,6 +47,17 @@
 
 </details>
 
+
+<details>
+  <summary><b>👩‍🎓: &nbsp;Conhecimentos na área do Gestão: </b></summary>
+  <br/>
+
+<img src="https://img.shields.io/badge/ Gestão%20de%20Pessoas-4479A1.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/ Scrum%20e%20Metodologias%20Ágeis-FFCA28.svg?&style=flat&logo=gitBook&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/%20Gestão%20de%20Projetos%20-232F3E.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Liderança%20e%20-0095D5.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Governaça%20e%20Compliance-A81C7D.svg?&style=flat&logo=gitBook&logoColor=white" />&nbsp;
+</details>
 <details>
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
