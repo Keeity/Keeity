@@ -12,10 +12,8 @@
 
 <hr/>
 
-[<details>
-  <summary>](url)
+
     <b>:computer: &nbsp;Principais conhecimentos na área de tecnologia </b>
-[  </summary>](url)
   <br/>
 <img src="https://img.shields.io/badge/EXCEL-6DB33F.svg?&style=flat&logo=microsoftexcel&logoColor=white" />&nbsp; 
 <img src="https://img.shields.io/badge/VBA-0769AD.svg?&style=flat&logo=visualbasic&logoColor=white" />&nbsp;
@@ -33,11 +31,9 @@
 <img src="https://img.shields.io/badge/Postman?style=flat-square&logo=postman&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" />&nbsp;
 
-[
-</details>
 
 <details>
-  <summary>](url)
+  <summary>
     <b>👩‍🎓: &nbsp;Conhecimentos na área do Direito: </b>
 [  </summary>](url)
   <br/>
