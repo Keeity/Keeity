@@ -37,7 +37,7 @@
 
 <details>
   <summary>
-    <b>👩‍🎓: &nbsp;Conhecimentos na área do Direito: </b>
+    <b>👩‍🎓: &nbsp;Conhecimentos na área do Direito: </b> - Clique para ver os detalhes
   </summary>
   <br/>
 
@@ -53,7 +53,7 @@
 
 <details>
   <summary>
-    <b>👩🏻‍💻: &nbsp;Conhecimentos na área do Gestão: </b>
+    <b>👩🏻‍💻: &nbsp;Conhecimentos na área do Gestão: </b> - Clique para ver os detalhes
   </summary>
   <br/>
 
